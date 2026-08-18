@@ -1,6 +1,6 @@
 name = "edgeever"
 main = ".wrangler/edgeever-worker/index.js"
-compatibility_date = "2026-08-18"
+compatibility_date = "2026-08-16"
 workers_dev = true
 no_bundle = true
 find_additional_modules = true

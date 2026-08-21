@@ -1,0 +1,11 @@
+{
+  "version": "1.37.0",
+  "changes": {
+    "en-US": [
+      "Clearly distinguish the client version from the connected cloud instance version, and automatically prepare verified desktop updates in the background with a one-click restart-and-update action when ready."
+    ],
+    "zh-CN": [
+      "明确区分客户端版本与所连接的云端实例版本，并在后台自动准备已校验的桌面端更新；准备完成后可一键重启并更新。"
+    ]
+  }
+}
